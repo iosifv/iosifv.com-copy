@@ -1,0 +1,19 @@
+{
+    "/js/welcome-app.js": "/js/welcome-app.js",
+    "/css/welcome-style.css": "/css/welcome-style.css",
+    "/css/iosifv-style.css": "/css/iosifv-style.css",
+    "/js/cv-app.js": "/js/cv-app.js",
+    "/index.php": "/index.php",
+    "/robots.txt": "/robots.txt",
+    "/js/welcome-vendor.js": "/js/welcome-vendor.js",
+    "/assets/iosifv.vcf": "/assets/iosifv.vcf",
+    "/css/cv-style.css": "/css/cv-style.css",
+    "/css/vendor-animate.css": "/css/vendor-animate.css",
+    "/css/vendor-bootstrap-v3.3.min.css": "/css/vendor-bootstrap-v3.3.min.css",
+    "/js/cv-vendor-jquery.js": "/js/cv-vendor-jquery.js",
+    "/js/cv-vendor-jq-lettering.js": "/js/cv-vendor-jq-lettering.js",
+    "/js/cv-vendor-jq-textillate.js": "/js/cv-vendor-jq-textillate.js",
+    "/js/cv-vendor-smoothscroll.js": "/js/cv-vendor-smoothscroll.js",
+    "/vendor/fontawesome-free/css/all.css": "/vendor/fontawesome-free/css/all.css",
+    "/vendor/ionicons/css/ionicons.min.css": "/vendor/ionicons/css/ionicons.min.css"
+}

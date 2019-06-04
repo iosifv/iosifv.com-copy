@@ -1,0 +1,68 @@
+/*
+ * Colors
+ * https://material.io/design/color/the-color-system.html#tools-for-picking-colors
+ */
+$color-primary: #00657C; // Logo color
+$color-complementary: #7c1700;
+$color-analogous-green: #007c55;
+$color-analogous-blue: #00277c;
+$color-triadic-violet: #17007c;
+$color-triadic-purple: #7c0065;
+
+$color-background: #263238;
+$color-background-light:  lighten($color-background, 80%);
+
+
+/*
+ * Color classes
+ * https://material.io/design/color/the-color-system.html#tools-for-picking-colors
+ */
+.color-primary {
+  background-color: $color-primary;
+}
+.color-analogous-green {
+  background-color: $color-analogous-green;
+}
+
+
+
+/*
+ * Colors & sizes
+ */
+body {
+  background-color: $color-background;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+nav {
+  background-color: $color-primary;
+}
+
+.container {
+    background-color: $color-background-light;
+}
+
+.showcase {
+    background-color: $color-background;
+}
+
+.page-footer {
+  background-color: $color-primary;
+  .container {
+    background-color: $color-primary;
+  }
+  .footer-copyright {
+    background-color: $color-primary;
+  }
+}
+
+.menu-logo {
+    max-width: 64px;
+    background: hsla(0,0,100%,1);
+}
