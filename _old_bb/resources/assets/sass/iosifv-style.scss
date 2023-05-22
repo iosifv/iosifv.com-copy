@@ -1,0 +1,59 @@
+/*
+|--------------------------------------------------------------------------
+| Packages
+|--------------------------------------------------------------------------
+*/
+//@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+/*
+|--------------------------------------------------------------------------
+| Theme
+|--------------------------------------------------------------------------
+*/
+@import "resources/assets/sass/iosifv-theme.scss";
+
+/*
+|--------------------------------------------------------------------------
+| Masonry
+|--------------------------------------------------------------------------
+*/
+@import "resources/assets/sass/iosifv-masonry.scss";
+
+.flexbox {
+  display: flex;
+  flew-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.showcase {
+  max-width: 1900px;
+}
+
+.spacer-1 {
+  padding-top: 1em;
+}
+
+.spacer-2 {
+  padding-top: 2em;
+}
+
+/*
+|--------------------------------------------------------------------------
+| Materialize overwrites
+|--------------------------------------------------------------------------
+*/
+
+.card {
+    border-radius: 8px;
+}
+
+.card .card-title {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.chips .deselect-chip {
+    font-size:18px;
+    padding-top: 6px;
+}

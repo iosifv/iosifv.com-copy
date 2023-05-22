@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Iosif Vigh
+N:Vigh;Iosif;;;
+EMAIL;TYPE=INTERNET:hi@iosifv.com
+TEL;TYPE=HOME:+447597137739
+item1.URL:http\://iosifv.com
+item1.X-ABLabel:homePage
+END:VCARD

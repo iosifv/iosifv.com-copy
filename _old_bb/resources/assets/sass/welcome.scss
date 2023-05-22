@@ -1,0 +1,20 @@
+/*
+|--------------------------------------------------------------------------
+| Packages
+|--------------------------------------------------------------------------
+*/
+
+// ToDo: import fontello here
+//$fa-font-path: "../../../node_modules/font-awesome/fonts" !default;
+//@import 'node_modules/font-awesome/scss/font-awesome.scss';
+@import "resources/assets/sass/_homepage-base.scss";
+@import "resources/assets/sass/_homepage-text-scroll.scss";
+@import "resources/assets/sass/_homepage-mouse-scroll.scss";
+
+/*
+|--------------------------------------------------------------------------
+| Style
+|--------------------------------------------------------------------------
+*/
+
+@import "resources/assets/sass/_homepage-style.scss";
