@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BPR Intidana</title>
+      <link>http://example.org/work/bpr-intidana/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/work/bpr-intidana/</guid>
+      <description>I created a BPR Intidana website using wordpress which was slightly modified to meet their needs. Such as adding a custom loan calculator, branch locator, because what was available at that time was not what they wanted.</description>
+    </item>
+    
+    <item>
+      <title>Doding Haleluya</title>
+      <link>http://example.org/work/doding-haleluya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/work/doding-haleluya/</guid>
+      <description>Digital version of Doding Halleluya Simalungun, a songbook for the Simalungun Protestant Christian Church (GKPS). Made using a local SQLLite database to keep it offline.</description>
+    </item>
+    
+    <item>
+      <title>Eportal Sisda Provinsi Sumut</title>
+      <link>http://example.org/work/sisda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/work/sisda/</guid>
+      <description>A web-based news portal application for the SISDA of North Sumatra Province, my job here is to design the appearance and work on the backend, where the backend uses PHP with the Codeigniter 3 framework, for the core itself there is already a boilerplate from the North Sumatra Provincial Government Bappeda IT team, so it&amp;rsquo;s just a matter of developing it.</description>
+    </item>
+    
+    <item>
+      <title>Medan In Code</title>
+      <link>http://example.org/work/medanincode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/work/medanincode/</guid>
+      <description>Medan In Code was created using one of the most famous static generator pages, HUGO, Medan In Code is a blog that contains my writings (for now) about various programming tutorials, databases or other things related to technology.
+For now, the only contributor is me, but I open up opportunities if there are friends who want to write on Medanincode.com. In Medanincode.com there are also free programming books, and open source source code for the future.</description>
+    </item>
+    
+    <item>
+      <title>PT. Ikhwanul Ikhlas Wisata</title>
+      <link>http://example.org/work/iiw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/work/iiw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Starbucks Secret Menu</title>
+      <link>http://example.org/work/starbucksecret/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/work/starbucksecret/</guid>
+      <description>Secret Menu application for Starbucks. Made in order to learn flutter with daily projects, friends can get the source code on github. And if you want to see a demo, you can get it on the Playstore, because for now it&amp;rsquo;s only available for the Android version.</description>
+    </item>
+    
+  </channel>
+</rss>
